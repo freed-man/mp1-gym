@@ -11,7 +11,7 @@ This is a responsive website for a gym, designed to attract and retain members w
 With a user-friendly design, the site aims to offer a welcoming experience for both current members and prospective joiners.
 
 ## Table of Contents:
-1. ### [**UX**](#ux)
+1. [**UX**](#ux)
     * #### [**Project purpose**](#project-purpose)
     * #### [**Business goals**](#business-goals)
     * #### [**Members goals**](#members-goals)
@@ -31,9 +31,7 @@ With a user-friendly design, the site aims to offer a welcoming experience for b
 
 6. ### [**Credits**](#credits)
 
-___
-
-### UX
+## UX
 * #### Project purpose
 * #### Business goals
 * #### Members goals
