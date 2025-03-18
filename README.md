@@ -31,7 +31,7 @@ With a user-friendly design, the site aims to offer a welcoming experience for b
 
 6. ### [**Credits**](#credits)
 
-## UX
+### UX
 * #### Project purpose
 * #### Business goals
 * #### Members goals
