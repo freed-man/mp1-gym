@@ -12,24 +12,24 @@ With a user-friendly design, the site aims to offer a welcoming experience for b
 
 ## Table of Contents:
 1. ### [**UX**](#ux)
-    * #### **Project purpose**
-    * #### **Business goals**
-    * #### **Members goals**
-    * #### **User stories**
-    * #### **Wireframes**
-    * #### **Design**
+    * #### [**Project purpose**](#project-purpose)
+    * #### [**Business goals**](#business-goals)
+    * #### [**Members goals**](#members-goals)
+    * #### [**User stories**](#user-stories)
+    * #### [**Wireframes**](#wireframes)
+    * #### [**Design**](#design)
 
-2. ### **Features**
-   * #### **Current features**
-   * #### **Potential features**
+2. ### [**Features**](#features)
+   * #### [**Current features**](#current-features)
+   * #### [**Potential features**](#potential-features)
 
-3. ### **Technologies used**
+3. ### [**Technologies used**](#technologies-used)
 
-4. ### **Testing**
+4. ### [**Testing**](#testing)
 
-5. ### **Deployment**
+5. ### [**Deployment**](#deployment)
 
-6. ### **Credits**
+6. ### [**Credits**](#credits)
 
 ___
 
