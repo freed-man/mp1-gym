@@ -65,6 +65,7 @@ Current gym member, I want:
 * To quickly locate contact information when I need to make inquiries
 * To explore personal training options and book sessions conveniently
 * To connect with the gym's social media accounts to stay updated on daily activities and community events
+* To browse content like workout tips, nutrition advice, and gym news
 
 Potential gym member, I want:
 * To explore the gym's facilities through high-quality visual content including images and videos
@@ -81,6 +82,72 @@ Visitor with general questions, I want:
 * ### Wireframes
 
 * ### Design
+I’ve created a comprehensive Five Planes of User Experience document for my gym website project, covering everything from high-level strategy to visual design. This document follows a common UX framework, progressing from abstract concepts to concrete implementations, ensuring alignment with business goals and user needs. Five Planes:
+1. Strategy Plane
+   * Business Objectives:
+      *	Increase new gym memberships by 20% within 6 months
+      *	Improve member retention through online resources
+      *	Establish professional, welcoming brand identity
+      *	Generate qualified leads through digital marketing
+      *	Reduce administrative calls by 30% through online bookings
+   * User Needs:
+      *	Current Members: Easy access to schedules, updates, training options, and community
+      *	Potential Members: Facility exploration, transparent pricing, testimonials, and simplified signup
+      *	General Visitors: Quick access to contact information, FAQs, and location details
+   * Success Metrics:
+      *	Conversion rate of visitors to inquiries/sign-ups
+      *	User engagement time and class booking rates
+      *	Reduction in administrative calls
+      *	Social media growth and member feedback
+2. Scope Plane
+   * Functional Requirements:
+      *	Responsive design across all devices
+      *	Interactive class schedule with filters
+      *	Membership inquiry/signup forms
+      *	Facility gallery, Google Maps integration
+      *	Social media integration and contact forms
+      *	Newsletter signup and content management system
+   * Content Requirements:
+      *	High-quality facility and class photography
+      *	Video testimonials and member success stories
+      *	Class descriptions, schedules, and pricing details
+      *	Staff profiles, FAQ section, and contact information
+      *	Directions and transportation options
+3. Structure Plane
+   * Information Architecture:
+      * Primary Navigation: Home, About, Membership, Classes, Facilities, Success Stories, Contact
+      *	Hierarchical structure with important information within 1-2 clicks
+      *	Cross-linked related content and progressive disclosure
+   * Interaction Design:
+      *	Optimized user journeys for new and current members
+      *	Strategic calls-to-action aligned with business goals
+      *	Consistent navigation and interactive elements
+      *	Form validation and confirmation messages
+4. Skeleton Plane
+   * Interface Design:
+      *	Clean layout with clear visual hierarchy
+      *	Consistent header with sticky navigation
+      *	Footer with essential links and contact details
+      *	Card-based design for classes and memberships
+      *	Responsive layouts with strategic white space
+   * Navigation Design:
+      *	Primary navigation in header (horizontal/hamburger depending on screen)
+      *	Secondary navigation, breadcrumbs, and quick links
+      *	Search functionality for larger content sections
+   * Information Design:
+      *	Visual indicators of content relationships
+      *	Consistent iconography and strategic highlighting
+      *	Calendar visualization for schedules
+      *	Map integration and progress visualization
+5. Surface Plane
+   * Visual Design:
+      *	Colors: Blue primary (#1A73E8), orange secondary (#FF5722), neutral tones
+      *	Typography: Montserrat headings, Open Sans body text
+      *	Imagery: Authentic, diverse photography of members and facilities
+      *	Interactive Elements: Distinctive button styles, hover states, subtle animations
+      *	Layout: Consistent grid system, mobile-first design, balanced visual weight
+
+While this design outlines the intended structure and goals of the gym website, some elements may evolve during development, and updates will be made accordingly to ensure the best user experience.
 
 ## Features
 
