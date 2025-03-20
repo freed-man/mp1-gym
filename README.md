@@ -1,4 +1,4 @@
-![ReadMe icon](https://i.ibb.co/KxhCYHQq/output-1.png)
+![ReadMe icon](https://github.com/user-attachments/assets/b7211c4d-2927-435f-b118-ca520458c4a3)
 
 Milestone Project 1 - Gym Website
 ===
@@ -80,6 +80,13 @@ Visitor with general questions, I want:
 * To find information about parking availability and public transportation options
 
 * ### Wireframes
+These wireframes were developed using the software Balsamiq during the phase of the design and planning stages for this project.
+
+* [Home](https://github.com/user-attachments/assets/9231a60c-49b0-4b1d-973e-249228766bc5)
+* [Classes](https://github.com/user-attachments/assets/ea9908dc-7ecd-440f-a233-b0f10e8394ff)
+* [Membership](https://github.com/user-attachments/assets/102b758b-d9c9-4636-a38b-371ae9e525c1)
+* [About](https://github.com/user-attachments/assets/4c09801b-3dd1-443e-b556-56aa4498ddd0)
+* [Contact](https://github.com/user-attachments/assets/bdb68ecc-01ef-4149-8946-68662a15a501)
 
 * ### Design
 I’ve created a comprehensive Five Planes of User Experience document for my gym website project, covering everything from high-level strategy to visual design. This document follows a common UX framework, progressing from abstract concepts to concrete implementations, ensuring alignment with business goals and user needs. Five Planes:
