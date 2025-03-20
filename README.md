@@ -148,7 +148,7 @@ I’ve created a comprehensive Five Planes of User Experience document for my gy
       *	Map integration and progress visualization
 5. Surface Plane
    * Visual Design:
-      *	Colors: Blue primary (#1A73E8), orange secondary (#FF5722), neutral tones
+      *	Colors: Dark Blue primary (1E1E2E), orange secondary (#D9E0EE)
       *	Typography: Roboto Mono headings, Source Code Pro body text
       *	Imagery: Authentic, diverse photography of members and facilities
       *	Interactive Elements: Distinctive button styles, hover states, subtle animations
