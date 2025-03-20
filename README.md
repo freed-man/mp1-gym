@@ -149,7 +149,7 @@ I’ve created a comprehensive Five Planes of User Experience document for my gy
 5. Surface Plane
    * Visual Design:
       *	Colors: Blue primary (#1A73E8), orange secondary (#FF5722), neutral tones
-      *	Typography: Montserrat headings, Open Sans body text
+      *	Typography: Roboto Mono headings, Source Code Pro body text
       *	Imagery: Authentic, diverse photography of members and facilities
       *	Interactive Elements: Distinctive button styles, hover states, subtle animations
       *	Layout: Consistent grid system, mobile-first design, balanced visual weight
