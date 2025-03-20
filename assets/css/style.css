@@ -1,3 +1,96 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #1e1e2e;
+    color: #d9e0ee;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+}
+
+.lead {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+}
+
+/* navbar styling */
+.navbar {
+    background-color: #181825 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #c3bac6;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link.active {
+    color: #88c0d0;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28195, 186, 198, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #2e3440;
+}
+
+/* join now button section styling */
+.cta-section {
+    padding: 80px;
+    text-align: center;
+}
+
+.discount-badge {
+    display: inline-block;
+    background-color: #C74753;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.btn-primary {
+    background-color: #5e81ac;
+    border-color: #5e81ac;
+}
+
+.btn-primary:hover {
+    background-color: #81a1c1;
+    border-color: #81a1c1;
+}
+
+/* footer section styling + add a color theme to social icons */
+.footer {
+    padding: 40px 0;
+    background-color: #181825;
+    color: #d9e0ee;
+    text-align: center;
+}
+
+.social-icon {
+    font-size: 30px;
+    margin: 0 20px;
+}
+
+.social-icon.instagram {
+    color: #E1306C;
+}
+
+.social-icon.facebook {
+    color: #1877F2;
+}
+
+.social-icon.twitter {
+    color: #1DA1F2;
+}
+
+.social-icon.youtube {
+    color: #FF0000;
+}
