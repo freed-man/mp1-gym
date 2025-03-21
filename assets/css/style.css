@@ -1,6 +1,11 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
+/* css variables */
+:root {
+    --primary-font: 'Source Code Pro', monospace;
+}
+
 body {
     font-family: 'Roboto Mono', monospace;
     background-color: #1e1e2e;
@@ -8,18 +13,18 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Source Code Pro', monospace;
+    font-family:  var(--primary-font);
     font-weight: 700;
 }
 
 .lead {
-    font-family: 'Source Code Pro', monospace;
+    font-family:  var(--primary-font);
     font-weight: 400;
 }
 
 /* navbar styling */
 .navbar {
-    background-color: #181825 !important;
+    background-color: #181825;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -39,7 +44,15 @@ h1, h2, h3, h4, h5, h6 {
     border-color: #2e3440;
 }
 
-/* join now button section styling */
+.tagline {
+    align-content: center;
+    margin-left: 15px;
+    color: #88c0d0;
+    font-size: 14px;
+    font-style: italic;
+}
+
+/* "join now" button section styling */
 .cta-section {
     padding: 80px;
     text-align: center;
@@ -53,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 50px;
     font-weight: bold;
     margin-bottom: 15px;
-    font-family: 'Source Code Pro', monospace;
+    font-family:  var(--primary-font);
 }
 
 .btn-primary {
@@ -93,4 +106,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .social-icon.youtube {
     color: #FF0000;
+}
+
+@media (max-width: 450px) {
+    .navbar-toggler {
+        margin-top: 5px;
+    }
+    .tagline {
+        margin-top: 5px;
+    }
 }
