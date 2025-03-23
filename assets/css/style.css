@@ -29,6 +29,34 @@ h1, h2, h3, h4, h5, h6 {
   color: #5599cc;
 }
 
+/* cta button */
+.top-cta {
+  background-color: #222;
+  padding: 20px 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.discount-badge {
+  display: inline-block;
+  background-color: #cc4455;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 50px;
+  margin-bottom: 15px;
+}
+
+/* button styling */
+.btn-primary {
+  background-color: #5599cc;
+  border-color: #5599cc;
+}
+
+.btn-primary:hover {
+  background-color: #4488bb;
+  border-color: #4488bb;
+}
+
 /* footer */
 .footer {
   padding: 25px 0;
