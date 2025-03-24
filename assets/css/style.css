@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .social-icon {
-  font-size: 22px;
+  font-size: 30px;
   margin: 0 15px;
 }
 
@@ -187,6 +187,34 @@ h1, h2, h3, h4, h5, h6 {
 .testimonial-author {
   font-weight: bold;
   color: #5599cc;
+}
+
+/* class schedule table */
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.schedule-table th, 
+.schedule-table td {
+  border: 1px solid #555;
+  padding: 8px;
+  text-align: center;
+}
+
+.schedule-table th {
+  background-color: #333;
+  font-weight: bold;
+}
+
+.time-col {
+  background-color: #333;
+  font-weight: bold;
+}
+
+.class-cell {
+  background-color: #444;
 }
 
 /* mobile view adjustments */
