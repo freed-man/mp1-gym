@@ -40,6 +40,40 @@ h1, h2, h3, h4, h5, h6 {
   padding: 40px 0;
 }
 
+/* footer */
+.footer {
+  padding: 25px 0;
+  background-color: #111;
+  text-align: center;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icon {
+  font-size: 30px;
+  margin: 0 15px;
+}
+
+/* colorful social icons */
+.social-icon.instagram {
+  color: #E1306C;
+}
+
+.social-icon.facebook {
+  color: #1877F2;
+}
+
+.social-icon.twitter {
+  color: #1DA1F2;
+}
+
+.social-icon.youtube {
+  color: #FF0000;
+}
+
 /* cta button */
 .top-cta {
   background-color: #222;
@@ -55,6 +89,17 @@ h1, h2, h3, h4, h5, h6 {
   padding: 5px 10px;
   border-radius: 50px;
   margin-bottom: 15px;
+}
+
+/* button styling */
+.btn-primary {
+  background-color: #5599cc;
+  border-color: #5599cc;
+}
+
+.btn-primary:hover {
+  background-color: #4488bb;
+  border-color: #4488bb;
 }
 
 /* value items */
@@ -105,49 +150,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #aaa;
 }
 
-/* button styling */
-.btn-primary {
-  background-color: #5599cc;
-  border-color: #5599cc;
+/* check/x icons */
+.check-icon {
+  color: #5599cc;
 }
 
-.btn-primary:hover {
-  background-color: #4488bb;
-  border-color: #4488bb;
-}
-
-/* footer */
-.footer {
-  padding: 25px 0;
-  background-color: #111;
-  text-align: center;
-}
-
-.social-icons {
-  display: flex;
-  justify-content: center;
-}
-
-.social-icon {
-  font-size: 30px;
-  margin: 0 15px;
-}
-
-/* colorful social icons */
-.social-icon.instagram {
-  color: #E1306C;
-}
-
-.social-icon.facebook {
-  color: #1877F2;
-}
-
-.social-icon.twitter {
-  color: #1DA1F2;
-}
-
-.social-icon.youtube {
-  color: #FF0000;
+.x-icon {
+  color: #cc4455;
 }
 
 /* team member profile avatars */
@@ -167,6 +176,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #5599cc;
 }
 
+/* team role styling */
+.team-role {
+  font-style: italic;
+  color: #aaa;
+}
+
 /* image placeholders */
 .image-placeholder {
   height: 250px;
@@ -177,19 +192,21 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
 }
 
-.map-placeholder {
-  height: 300px;
-  background-color: #444;
-  border-radius: 8px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.image-placeholder img {
+  object-fit: cover;
 }
 
 .map-container {
   display: flex;
   align-items: center;
   height: 100%;
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 8px;
 }
 
 /* carousel styling */
@@ -218,14 +235,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .membership-card .card-title {
   color: #5599cc;
-}
-
-.check-icon {
-  color: #5599cc;
-}
-
-.x-icon {
-  color: #cc4455;
 }
 
 /* testimonials */
@@ -289,12 +298,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .class-list strong {
   margin-right: 5px;
-}
-
-/* team role styling */
-.team-role {
-  font-style: italic;
-  color: #aaa;
 }
 
 /* mobile view adjustments */
